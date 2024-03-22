@@ -3,6 +3,10 @@ Project 2 for U of M Data Analytics Bootcamp. Group 10: Aliyu Muraina and Gregor
 
 The file ETL_Mini_Project_AMuraina_GSchreiter.ipynb contains the pandas analysis of creating the various dataframes and then writing to CSV files. The four output CSV files are contained in the Resources folder. 
 
+Greg was responsible for creating the Category/Subcategory, and Campaign dataframes / csv files. 
+
+Aliyu was responsible for the Contacts dataframe / csv file as well as the Crowdfunding database.
+
 # Crowdfunding Database
 
 The ERD is in the file images/ERD.png, and it is displayed below:
