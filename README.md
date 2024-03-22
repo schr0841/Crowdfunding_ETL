@@ -1,6 +1,7 @@
 # Crowdfunding_ETL
-Project 2 for U of M Data Analytics Bootcamp
+Project 2 for U of M Data Analytics Bootcamp. Group 10: Aliyu Muraina and Gregory Schreiter
 
+The file ETL_Mini_Project_AMuraina_GSchreiter.ipynb contains the pandas analysis of creating the various dataframes and then writing to CSV files. The four output CSV files are contained in the resources folder. 
 
 # Crowdfunding Database
 
