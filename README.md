@@ -7,7 +7,7 @@ Project 2 for U of M Data Analytics Bootcamp
 The ERD is in the file images/ERD.png, and it is displayed below:
 
 ## Entity Relationship Diagram:
-![erd](https://github.com/schr0841/Crowdfunding_ETL/blob/main/images/erd.png)
+![erd](https://github.com/schr0841/Crowdfunding_ETL/blob/main/images/ERD.png)
 
 The table schema used is in the file crowdfunding_db_schema.sql. This file correctly sets up the tables and identifies the relationships between the tables. The foreign keys of the campaign table are primary keys for the other tables. 
 
